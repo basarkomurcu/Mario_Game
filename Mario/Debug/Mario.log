@@ -1,0 +1,10 @@
+﻿  Game.cpp
+C:\Users\User\source\repos\Mario\Mario\Game.cpp(291,50): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=unsigned int
+          ]
+  Main.cpp
+  Kod Üretiliyor...
+C:\Users\User\source\repos\Mario\Mario\Game.cpp(503): warning C4715: 'Game::checkCollusion': tüm denetim yolları değer döndürmez
+  Mario.vcxproj -> C:\Users\User\source\repos\Mario\Debug\Mario.exe
