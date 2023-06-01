@@ -6,4 +6,6 @@ the Project.
 "Graphics" and "Window" modules of the SFML is utilized. You should add all the dependincies for the game to function properly. 
 Dependincies are Graphics and Window modules.
 
-Also, It should be noted that code is compiled for x86 architecture.
+Also, It should be noted that code is compiled for x86 architecture and solution file can directly be opened instead of opening each file
+seperately.
+
