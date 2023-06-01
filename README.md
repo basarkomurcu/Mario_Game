@@ -3,8 +3,8 @@ The goal of the Project is to implement a single-player Mario Game which the pla
 beat all the turtles in pre-defined cases and get as many points as one can. SFML library is utilized for
 the Project.
 
-"Graphics" and "Window" modules of the SFML is utilized. You should add all the dependincies for the game to function properly. 
-Dependincies are Graphics and Window modules.
+"Graphics" and "Window" modules of the SFML is utilized. You should add all the dependencies for the game to function properly. 
+Dependencies are Graphics and Window modules.
 
 Also, It should be noted that code is compiled for x86 architecture and solution file can directly be opened instead of opening each file
 seperately.
